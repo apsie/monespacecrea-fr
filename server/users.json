@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": "mfuxzrpp",
+      "name": "Soufiane",
+      "email": "soufianesoufiane@gmail.com",
+      "passwordHash": "$2a$10$KimpG/Nm.fZ0jh/7DMA/0uQ8gI7Lo3e0Wj76Ntghdr310tfedmdWi"
+    },
+    {
+      "id": "mfuznlhp",
+      "name": "souf",
+      "email": "souf@gmail.com",
+      "passwordHash": "$2a$10$XSpquyyS.TYu6Ft7WKiXrOVEBkcpcfZtF3lWFedUGUvCePhr.mBzG"
+    },
+    {
+      "id": "mfv0ss4q",
+      "name": "Alaesouf",
+      "email": "alaesouf@gmail.com",
+      "passwordHash": "$2a$10$uDTZ5eGdEDJsOzM2lPfRTecymN8UEg67V860XYZsRbG.0tbYLYW2."
+    },
+    {
+      "id": "mfv4xxoz",
+      "name": "souf",
+      "email": "soufsouf@gmail.com",
+      "passwordHash": "$2a$10$TtkHASlmo8Y61zPlUglBIu8h.Zc8EiIKh6LkUmSmClZ5W6ZnjqS6W"
+    },
+    {
+      "id": "mfv5vmxi",
+      "name": "alae",
+      "email": "alae@gmail.com",
+      "passwordHash": "$2a$10$1ToDfD6490O1RD1xZpz8/e0rqZIYEGST6qvKAkUZWJxIIrZ/tAcGi"
+    },
+    {
+      "id": "mfv7jvok",
+      "name": "Alaeddine soufiane",
+      "email": "alaeddinesoufiane5@gmail.com",
+      "passwordHash": "$2a$10$dWSdbHaMIcf8Tk8PfLlsheNGvBSefesUWQpaKPJ23bj4AIMmoARta"
+    },
+    {
+      "id": "mfv7mj9t",
+      "name": "Alaesouf",
+      "email": "alaesoufi@gmail.com",
+      "passwordHash": "$2a$10$4bnCcLKioMi8MgFZoLZQTezuKVSdneyE6oRIJM/nU8ZJhUUPGzCWi"
+    },
+    {
+      "id": "mfv8y0sa",
+      "name": "azerty",
+      "email": "azerty@gmail.com",
+      "passwordHash": "$2a$10$k5e62nJkqPnrHDniXf4UXO7BTrVUJDk1JTp1gV5f0dwVcxu.anqdu"
+    },
+    {
+      "id": "mfvndpxk",
+      "name": "alaeddine",
+      "email": "alaeddine@gmail.com",
+      "passwordHash": "$2a$10$rHt0q7.Sq9MlpSBcY.Frb.qOKRjN/LtvIlYkQCykn76FlLozTngiO"
+    },
+    {
+      "id": "mfvnepfk",
+      "name": "ayoub",
+      "email": "ayoub@gmail.com",
+      "passwordHash": "$2a$10$IP.wol2upUowjqM.2fOebukaJCxSVYnbbAHTGVAVWumJ/shYeOpXu"
+    }
+  ]
+}

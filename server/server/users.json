@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "mfuwsy1a",
+      "name": "alaeddine",
+      "email": "alaeddiane@gmail.com",
+      "passwordHash": "$2a$10$yKKQNi0ntWSmOhr7yCYTEOZ.1yRuH0FdTrL1p1i4Nus4Qt.5a6ely"
+    },
+    {
+      "id": "mfuwtjtc",
+      "name": "Alaeddine",
+      "email": "alaeddine@gmail.com",
+      "passwordHash": "$2a$10$jPoi8KwHUCjvROMhvi86MOl1XKseSmNIotnP0FcZPpd.k.U7.Frau"
+    }
+  ]
+}

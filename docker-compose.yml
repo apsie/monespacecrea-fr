@@ -1,0 +1,28 @@
+version: '3.8'
+services:
+  mongo:
+    image: mongo:6
+    container_name: fileuploader-mongo
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+    environment:
+      - MONGO_INITDB_DATABASE=file_uploader
+  mariadb:
+    image: mariadb:10.11
+    container_name: fileuploader-mariadb
+    restart: unless-stopped
+    environment:
+      - MARIADB_DATABASE=upload_app
+      - MARIADB_USER=app
+      - MARIADB_PASSWORD=app
+      - MARIADB_ROOT_PASSWORD=root
+    ports:
+      - "3306:3306"
+    volumes:
+      - mariadb_data:/var/lib/mysql
+volumes:
+  mongo_data:
+  mariadb_data:
